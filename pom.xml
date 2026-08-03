@@ -9,4 +9,7 @@
     <version>1.0-SNAPSHOT</version>
     <name>Mon projet 2026</name>
 
+    <properties>
+        <maven.compiler.release>21</maven.compiler.release>
+    </properties>
 </project>
