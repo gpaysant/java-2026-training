@@ -7,3 +7,22 @@ Stack:
 - Spring Boot 3
 - Spring Security
 - Tests: JUnit 5, Mockito
+
+# My Awesome Project
+
+Status of the project and current development phase.
+
+## Current Progress: 4 %
+
+- [x] Upgrade java 17->21 (Streams, records, pattern matching, virtual threads
+- [ ] Spring boot 3 + Spring security
+- [ ] Tests, JUnit 5, Mockito
+- [ ] Git advanced
+- [ ] Docker
+- [ ] API REST + Swagger
+- [ ] PostgresSQL + NoSQL
+- [ ] Kubernetes
+- [ ] Kafka
+- [ ] Cloud (AWS or Azure)
+
+
